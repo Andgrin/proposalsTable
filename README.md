@@ -2,7 +2,7 @@
 
 ==================
 
-##Basic table with list of cargo proposals. 
+## Basic table with list of cargo proposals. 
 
 ==================
 
