@@ -5,14 +5,14 @@ import PageHeader from './components/PageHeader';
 
 
 class App extends Component {
-  render() {
-    return (
-		<div className="App">
-			<PageHeader />
-        	<EnhancedTable />
-      </div>
-    );
-  }
+	render() {
+		return (
+			<div className="App">
+				<PageHeader />
+				<EnhancedTable />
+			</div>
+		);
+	}
 }
 
 export default App;
